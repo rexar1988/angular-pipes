@@ -1,4 +1,4 @@
-# Angular Bytes Converter
+# Angular Bytes Format
 
 ## Basic usage
 ### HTML template
